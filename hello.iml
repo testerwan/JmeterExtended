@@ -163,6 +163,5 @@
     <orderEntry type="library" name="Maven: org.apache.jmeter:ApacheJMeter_java:3.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.jmeter:ApacheJMeter_components:3.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.jmeter:ApacheJMeter_functions:3.2" level="project" />
-    <orderEntry type="library" name="Maven: org.wan:sign:1.0.1" level="project" />
   </component>
 </module>
